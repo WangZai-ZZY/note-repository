@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.ca45d9bb.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"development/front-end/css/fundamental.md","lastUpdated":1674201603000}'),n={name:"development/front-end/css/fundamental.md"};function o(s,r,d,c,p,m){return a(),t("div")}const _=e(n,[["render",o]]);export{l as __pageData,_ as default};
