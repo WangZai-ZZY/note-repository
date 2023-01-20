@@ -1,8 +1,10 @@
 ---
+title: 主页
 layout: home
 
 hero:
-  name: 汪崽zzy的笔记仓库
+  name: 汪崽zzy
+  text: 学习笔记仓库
   tagline: 存放一些学习过程中潦草的笔记
   actions:
     - theme: brand

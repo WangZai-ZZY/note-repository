@@ -3,8 +3,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
     lang: 'zh-CN',
     title: '笔记仓库',
-    description: '汪崽zzy的笔记仓库',
-    base: '/NoteRepository/',
+    base: '/note-repository/',
 
     appearance: true,
     lastUpdated: true,
